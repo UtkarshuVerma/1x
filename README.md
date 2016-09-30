@@ -1,2 +1,2 @@
 # 1x
-The main branch. Branches will be created from this branch.
+The main branch. The derived branches will be based on the version.
